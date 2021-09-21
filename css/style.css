@@ -186,6 +186,8 @@ p {
     letter-spacing: 1px;
 }
 
+
+
 .nav-link:hover,
 .nav-link.active {
     color: var(--secondry-color) !important;
